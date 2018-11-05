@@ -1,0 +1,7 @@
+{
+    "name": "memoizeone-test",
+    "version": "1.0.0",
+    "dependencies": {
+        "memoize-one": "^4.0.2"
+    }
+}
